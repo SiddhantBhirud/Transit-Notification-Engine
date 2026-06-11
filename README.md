@@ -23,7 +23,7 @@ pytest tests/ -v
 **Requirements:** Docker Desktop, Python 3.11+
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/SiddhantBhirud/Transit-Notification-Engine
 cd transit-engine
 python -m venv venv
 source venv/bin/activate

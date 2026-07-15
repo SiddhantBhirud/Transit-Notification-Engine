@@ -33,15 +33,6 @@ cp .env.example .env
 
 Fill in `.env` with your GTFS-RT API key and AWS credentials before running.
 
-## Uninstall
-
-```bash
-docker-compose down
-deactivate
-cd ..
-rm -rf transit-engine
-```
-
 ## License
 
 MIT — see [LICENSE](https://opensource.org/licenses/MIT)
